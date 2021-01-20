@@ -1,0 +1,24 @@
+{
+  "name": "hs110_gsischalter",
+  "version": "1.0.0",
+  "description": "Einfacher Demonstrator für die Ansteuerrung eines TP Link HS110 SmartPlug mittels GrünstromIndex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/hs110_gsischalter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/energychain/hs110_gsischalter/issues"
+  },
+  "homepage": "https://github.com/energychain/hs110_gsischalter#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "tplink-cloud-api": "^0.8.1"
+  }
+}
