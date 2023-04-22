@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/energychain/hs110_gsischalter#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dotenv": "^8.2.0",
     "tplink-cloud-api": "^0.8.1"
   }
